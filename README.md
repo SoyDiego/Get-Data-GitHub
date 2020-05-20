@@ -1,11 +1,11 @@
 # challengeMARFEEL
 
-The main goal of this test is to create a client side web application that fetches data from Github and displays it.
-This is the documentation of the ​[https://developer.github.com/v3/](GitHub API).
+The main goal of this test is to create a client side web application that fetches data from Github and displays it.  
+This is the documentation of the ​[GitHub API](https://developer.github.com/v3/).
 
 ## Demo
-You can see the code and demo [here](#).
-![challengeMARFEEL working]("./img/screenshot.png")
+You can see the code and demo [here](http://soydiego.com.ar/myCodes/marfeel/).
+![challengeMARFEEL working](https://raw.githubusercontent.com/SoyDiego/challengeMARFEEL/master/img/screenshot.png)
 
 ## Available Scripts
 
