@@ -1,4 +1,4 @@
-# challengeMARFEEL
+# Get-Data-GitHub
 
 The main goal of this test is to create a client side web application that fetches data from Github and displays it.  
 This is the documentation of the ​[GitHub API](https://developer.github.com/v3/).
